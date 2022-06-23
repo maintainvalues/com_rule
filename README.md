@@ -1,1 +1,1 @@
-# s_rule_com
+# luckduck
