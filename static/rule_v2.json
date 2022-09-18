@@ -17,23 +17,15 @@
     },
     {
       "name": "电视/订阅1",
-      "url": "https://fastly.jsdelivr.net/gh/goolguy007/radioer@main/TVradio",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/cxfksword/iptv/master/daily.m3u8",
       "data_type": "m3u",
       "author": "testmain",
       "enable": 1,
       "sort": 1
     },
     {
-      "name": "电视/中国",
-      "url": "https://fastly.jsdelivr.net/gh/will1211/netflix@master/TBTV.m3u",
-      "data_type": "m3u",
-      "author": "testmain",
-      "enable": 1,
-      "sort": 2
-    },
-    {
       "name": "电视/全球",
-      "url": "https://fastly.jsdelivr.net/gh/iptv-org/iptv@gh-pages/index.country.m3u",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.country.m3u",
       "data_type": "m3u",
       "author": "testmain",
       "enable": 1,
