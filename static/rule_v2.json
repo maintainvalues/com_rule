@@ -32,7 +32,7 @@
       "sort": 2
     },
     {
-      "name": "全球",
+      "name": "订阅3/全球",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.country.m3u",
       "data_type": "m3u",
       "author": "testmain",
