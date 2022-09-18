@@ -24,6 +24,14 @@
       "sort": 1
     },
     {
+      "name": "电视/订阅2",
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio",
+      "data_type": "m3u",
+      "author": "testmain",
+      "enable": 1,
+      "sort": 1
+    },
+    {
       "name": "电视/全球",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.country.m3u",
       "data_type": "m3u",
