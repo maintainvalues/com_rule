@@ -16,7 +16,7 @@
       "sort": 0
     },
     {
-      "name": "订阅2",
+      "name": "订阅1",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio",
       "data_type": "m3u",
       "author": "testmain",
@@ -24,7 +24,7 @@
       "sort": 2
     },
     {
-      "name": "订阅3/全球",
+      "name": "订阅2/全球",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.country.m3u",
       "data_type": "m3u",
       "author": "testmain",
