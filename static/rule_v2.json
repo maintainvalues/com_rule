@@ -16,15 +16,23 @@
       "sort": 0
     },
     {
-      "name": "订阅1",
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio",
+      "name": "Global直播源",
+      "url": "https://live.fanmingming.com/tv/m3u/global.m3u",
+      "data_type": "m3u",
+      "author": "testmain",
+      "enable": 1,
+      "sort": 2
+    },
+     {
+      "name": "Radio直播源",
+      "url": "https://live.fanmingming.com/radio/m3u/index.m3u",
       "data_type": "m3u",
       "author": "testmain",
       "enable": 1,
       "sort": 2
     },
     {
-      "name": "订阅2/全球",
+      "name": "Radio直播源",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.country.m3u",
       "data_type": "m3u",
       "author": "testmain",
