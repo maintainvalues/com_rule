@@ -8,7 +8,7 @@
   "subEnabled": true,
   "tvSource": [
     {
-      "name": "经典",
+      "name": "电视经典",
       "url": "/iptv_custom.json",
       "data_type": "json",
       "author": "testmain",
@@ -16,7 +16,7 @@
       "sort": 0
     },
     {
-      "name": "Global直播源",
+      "name": "电视补充",
       "url": "https://live.fanmingming.com/tv/m3u/global.m3u",
       "data_type": "m3u",
       "author": "testmain",
@@ -24,7 +24,7 @@
       "sort": 2
     },
      {
-      "name": "Radio直播源",
+      "name": "电台1",
       "url": "https://live.fanmingming.com/radio/m3u/index.m3u",
       "data_type": "m3u",
       "author": "testmain",
@@ -32,7 +32,7 @@
       "sort": 2
     },
     {
-      "name": "Radio直播源",
+      "name": "电视全球",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.country.m3u",
       "data_type": "m3u",
       "author": "testmain",
