@@ -1,14 +1,14 @@
 {
-  "subName": "MINI订阅",
+  "subName": "MINI",
   "subAuthor": "MINI",
-  "subDesc": "搜索自用",
+  "subDesc": "",
   "subIcon": "",
   "subBaseUrl": "sub_mini.json",
   "subVersion": 1,
   "subEnabled": true,
   "tvSource": [
     {
-      "name": "电视经典",
+      "name": "classic",
       "url": "/iptv_custom.json",
       "data_type": "json",
       "author": "testmain",
@@ -16,7 +16,7 @@
       "sort": 0
     },
     {
-      "name": "电视补充",
+      "name": "tv1",
       "url": "https://live.fanmingming.com/tv/m3u/global.m3u",
       "data_type": "m3u",
       "author": "testmain",
@@ -24,7 +24,7 @@
       "sort": 2
     },
      {
-      "name": "电台1",
+      "name": "radio1",
       "url": "https://live.fanmingming.com/radio/m3u/index.m3u",
       "data_type": "m3u",
       "author": "testmain",
@@ -32,7 +32,7 @@
       "sort": 2
     },
     {
-      "name": "电视全球",
+      "name": "global tv",
       "url": "https://ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.country.m3u",
       "data_type": "m3u",
       "author": "testmain",
