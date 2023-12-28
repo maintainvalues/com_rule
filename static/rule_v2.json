@@ -9,7 +9,7 @@
   "tvSource": [
     {
       "name": "classic",
-      "url": "/iptv_custom.json",
+      "url": "/iptv_custom.m3u",
       "data_type": "json",
       "author": "testmain",
       "enable": 1,
