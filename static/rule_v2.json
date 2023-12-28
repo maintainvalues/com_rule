@@ -10,7 +10,7 @@
     {
       "name": "classic",
       "url": "/iptv_custom.m3u",
-      "data_type": "json",
+      "data_type": "m3u",
       "author": "testmain",
       "enable": 1,
       "sort": 0
