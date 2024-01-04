@@ -32,6 +32,14 @@
       "sort": 1
     },
     {
+      "name": "IPV6",
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
+      "data_type": "m3u",
+      "author": "testmain",
+      "enable": 1,
+      "sort": 1
+    },
+    {
       "name": "global tv",
       "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/index.country.m3u",
       "data_type": "m3u",
